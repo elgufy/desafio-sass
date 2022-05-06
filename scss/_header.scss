@@ -1,0 +1,18 @@
+
+body{
+    background-color:$colorbg;
+    ul{
+        li{
+            a{ 
+                text-decoration: none;
+                
+            }
+            display: inline-block;
+            padding: $linkpadding;
+            
+        }
+    }
+    h1{
+        background-color: wheat;
+    }
+}
